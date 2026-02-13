@@ -695,8 +695,7 @@ public class ChessGame {
         }
 
         /**
-         * THIS IS THE CORRECTED METHOD.
-         * This robust version of undoMove correctly handles all cases, including
+         * This correctly handles all cases, including
          * en passant, preventing board state corruption.
          */
         private static void undoMove(GameState state, int[] move, MoveRecord mr) {
