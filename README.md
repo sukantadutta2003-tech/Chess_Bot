@@ -43,7 +43,9 @@ This project is implemented in a single Java file and runs on any system with Ja
 
 - Check your Java version:
 
-- java -version
+```bash
+java -version
+```
 
 ## ▶️ How To Run
 
